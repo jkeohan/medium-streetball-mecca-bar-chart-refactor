@@ -1,2 +1,2 @@
-# medium-streetball-mecca-bar-chart-refactor
+# streetball-mecca-final-refactor
 Created with CodeSandbox
